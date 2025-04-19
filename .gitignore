@@ -1,1 +1,4 @@
-node_modules\n.env\ndist\n.cache
+node_modules
+dist
+.cache
+.env
