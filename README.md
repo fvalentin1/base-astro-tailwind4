@@ -46,3 +46,32 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+
+# 🌌 Base Astro + Tailwind CSS v4
+
+Este es un proyecto base minimalista usando **[Astro](https://astro.build)** con **Tailwind CSS v4**, listo para comenzar cualquier desarrollo frontend moderno, como un portafolio, landing page o sitio personal.
+
+---
+
+## 🚀 Tecnologías incluidas
+
+- ⚡ Astro v4
+- 🎨 Tailwind CSS v4
+- 🧵 PostCSS con configuración manual
+- 🌓 Modo oscuro preparado
+- 📦 Estructura limpia y lista para producción
+
+---
+
+## 📦 Instalación
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/fvalentin1/base-astro-tailwind4.git
+
+# Entrar al proyecto
+cd base-astro-tailwind4
+
+# Instalar dependencias
+npm install
